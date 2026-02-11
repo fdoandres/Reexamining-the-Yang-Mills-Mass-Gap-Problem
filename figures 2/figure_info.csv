@@ -1,0 +1,5 @@
+Figure,Description,Filename_PDF,Key_Result
+1,Markovian vs Non-Markovian evolution,figure1_markovian_new.pdf,Maximum difference < 0.3%
+2,Choi matrix eigenvalue analysis,figure2_choi_enhanced.pdf,"All eigenvalues > 0, minimum = 2.3e-6"
+3,Time-evolving gravitational potential,figure3_gravity_time.pdf,Higgs-mediated dissipative corrections
+4,Correlator analysis with confidence bands,figure4_correlator_stats.pdf,Mass gap: 0.469 ± 0.004 (fit vs 0.467 theory)

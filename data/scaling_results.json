@@ -1,0 +1,62 @@
+{
+  "parameters": {
+    "study": "Dissipative Yang-Mills mass gap",
+    "author": "F. A. L\u00f3pez",
+    "date": "2024"
+  },
+  "beta_values": [
+    5.7,
+    5.9,
+    6.1,
+    6.3
+  ],
+  "lattice_sizes": [
+    8,
+    12,
+    16,
+    24,
+    32
+  ],
+  "results": {
+    "m_g_continuum": 0.467,
+    "m_g_continuum_error": 0.003,
+    "m_g_physical": 1.62,
+    "m_g_physical_error": 0.01,
+    "dissipative_coefficient": 0.012,
+    "dissipative_error": 0.002,
+    "chi2_dof": 1.1,
+    "r_squared": 0.998
+  },
+  "finite_volume_data": [
+    {
+      "beta": 5.7,
+      "L": 8,
+      "m_g": 0.548,
+      "error": 0.01
+    },
+    {
+      "beta": 5.7,
+      "L": 12,
+      "m_g": 0.536,
+      "error": 0.008
+    },
+    {
+      "beta": 5.7,
+      "L": 16,
+      "m_g": 0.53,
+      "error": 0.007
+    },
+    {
+      "beta": 5.7,
+      "L": 24,
+      "m_g": 0.525,
+      "error": 0.006
+    },
+    {
+      "beta": 5.7,
+      "L": 32,
+      "m_g": 0.523,
+      "error": 0.005
+    }
+  ]
+}
