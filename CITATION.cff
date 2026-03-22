@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+type: software
+title: "Reexamining the Yang-Mills Mass Gap Problem: Open Quantum Systems and Quantum Corral Confinement"
+abstract: >
+  A constructive approach to the Yang-Mills mass gap problem combining
+  open quantum systems theory with a new quantum corral confinement mechanism.
+  The mass gap emerges as a dissipative collective phenomenon and is
+  independently quantized by Bessel boundary conditions within a curved
+  spacetime corral. Includes extended lattice evidence across 7 beta values
+  and a new modified OS Axiom 7 (Geometric Closure) addressing the Clay
+  isolated-system requirement.
+authors:
+  - family-names: "López"
+    given-names: "F. A."
+    email: neoatomismo@gmail.com
+    affiliation: Independent Researcher
+version: "2.0"
+date-released: "2026-01-11"
+license: CC-BY-4.0
+repository-code: "https://github.com/fdoandres/Reexamining-the-Yang-Mills-Mass-Gap-Problem"
+keywords:
+  - Yang-Mills theory
+  - mass gap
+  - open quantum systems
+  - quantum corral
+  - Lindblad dynamics
+  - lattice QCD
+  - Clay Millennium Prize
+  - Bessel functions
+  - confinement
+  - non-perturbative QFT
+  - C*-algebras
+  - GNS construction
+  - Osterwalder-Schrader axioms
+preferred-citation:
+  type: article
+  title: "Reexamining the Yang-Mills Mass Gap Problem: A Constructive Approach via Open Quantum Systems and Quantum Corral Confinement"
+  authors:
+    - family-names: "López"
+      given-names: "F. A."
+      email: neoatomismo@gmail.com
+  year: 2026
+  doi: "10.5281/zenodo.XXXXXXX"

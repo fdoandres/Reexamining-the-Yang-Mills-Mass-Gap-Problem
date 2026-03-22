@@ -1,0 +1,327 @@
+{
+  "version": "2.0",
+  "paper": "Yang-Mills Mass Gap via Open QS + Quantum Corral",
+  "author": "F. A. L\u00f3pez",
+  "date": "2026",
+  "continuum_extrapolation": {
+    "mg_cont_lattice": 0.42276,
+    "mg_cont_err": 0.00539,
+    "mg_phys_gev": 0.186,
+    "chi2_dof": 0.532,
+    "fit_coefficients": {
+      "mg_cont": 0.42276,
+      "c2": 5.141,
+      "c4": -54.6172
+    }
+  },
+  "finite_size_data": {
+    "5.7": {
+      "mg_inf": 0.518,
+      "err": 0.002,
+      "A": 2.8,
+      "L_values": {
+        "8": {
+          "mg_L": 0.52355,
+          "correction_pct": 1.07
+        },
+        "12": {
+          "mg_L": 0.51847,
+          "correction_pct": 0.09
+        },
+        "16": {
+          "mg_L": 0.51804,
+          "correction_pct": 0.01
+        },
+        "24": {
+          "mg_L": 0.518,
+          "correction_pct": 0.0
+        },
+        "32": {
+          "mg_L": 0.518,
+          "correction_pct": 0.0
+        },
+        "40": {
+          "mg_L": 0.518,
+          "correction_pct": 0.0
+        },
+        "48": {
+          "mg_L": 0.518,
+          "correction_pct": 0.0
+        }
+      }
+    },
+    "5.9": {
+      "mg_inf": 0.502,
+      "err": 0.003,
+      "A": 2.7,
+      "L_values": {
+        "8": {
+          "mg_L": 0.50808,
+          "correction_pct": 1.21
+        },
+        "12": {
+          "mg_L": 0.50254,
+          "correction_pct": 0.11
+        },
+        "16": {
+          "mg_L": 0.50205,
+          "correction_pct": 0.01
+        },
+        "24": {
+          "mg_L": 0.502,
+          "correction_pct": 0.0
+        },
+        "32": {
+          "mg_L": 0.502,
+          "correction_pct": 0.0
+        },
+        "40": {
+          "mg_L": 0.502,
+          "correction_pct": 0.0
+        },
+        "48": {
+          "mg_L": 0.502,
+          "correction_pct": 0.0
+        }
+      }
+    },
+    "6.1": {
+      "mg_inf": 0.481,
+      "err": 0.003,
+      "A": 2.5,
+      "L_values": {
+        "8": {
+          "mg_L": 0.48766,
+          "correction_pct": 1.39
+        },
+        "12": {
+          "mg_L": 0.48165,
+          "correction_pct": 0.13
+        },
+        "16": {
+          "mg_L": 0.48107,
+          "correction_pct": 0.01
+        },
+        "24": {
+          "mg_L": 0.481,
+          "correction_pct": 0.0
+        },
+        "32": {
+          "mg_L": 0.481,
+          "correction_pct": 0.0
+        },
+        "40": {
+          "mg_L": 0.481,
+          "correction_pct": 0.0
+        },
+        "48": {
+          "mg_L": 0.481,
+          "correction_pct": 0.0
+        }
+      }
+    },
+    "6.3": {
+      "mg_inf": 0.472,
+      "err": 0.002,
+      "A": 2.6,
+      "L_values": {
+        "8": {
+          "mg_L": 0.47945,
+          "correction_pct": 1.58
+        },
+        "12": {
+          "mg_L": 0.47275,
+          "correction_pct": 0.16
+        },
+        "16": {
+          "mg_L": 0.47209,
+          "correction_pct": 0.02
+        },
+        "24": {
+          "mg_L": 0.472,
+          "correction_pct": 0.0
+        },
+        "32": {
+          "mg_L": 0.472,
+          "correction_pct": 0.0
+        },
+        "40": {
+          "mg_L": 0.472,
+          "correction_pct": 0.0
+        },
+        "48": {
+          "mg_L": 0.472,
+          "correction_pct": 0.0
+        }
+      }
+    },
+    "6.5": {
+      "mg_inf": 0.461,
+      "err": 0.003,
+      "A": 2.4,
+      "L_values": {
+        "8": {
+          "mg_L": 0.46851,
+          "correction_pct": 1.63
+        },
+        "12": {
+          "mg_L": 0.46179,
+          "correction_pct": 0.17
+        },
+        "16": {
+          "mg_L": 0.46109,
+          "correction_pct": 0.02
+        },
+        "24": {
+          "mg_L": 0.461,
+          "correction_pct": 0.0
+        },
+        "32": {
+          "mg_L": 0.461,
+          "correction_pct": 0.0
+        },
+        "40": {
+          "mg_L": 0.461,
+          "correction_pct": 0.0
+        },
+        "48": {
+          "mg_L": 0.461,
+          "correction_pct": 0.0
+        }
+      }
+    },
+    "6.8": {
+      "mg_inf": 0.448,
+      "err": 0.004,
+      "A": 2.3,
+      "L_values": {
+        "8": {
+          "mg_L": 0.45598,
+          "correction_pct": 1.78
+        },
+        "12": {
+          "mg_L": 0.44889,
+          "correction_pct": 0.2
+        },
+        "16": {
+          "mg_L": 0.44811,
+          "correction_pct": 0.02
+        },
+        "24": {
+          "mg_L": 0.448,
+          "correction_pct": 0.0
+        },
+        "32": {
+          "mg_L": 0.448,
+          "correction_pct": 0.0
+        },
+        "40": {
+          "mg_L": 0.448,
+          "correction_pct": 0.0
+        },
+        "48": {
+          "mg_L": 0.448,
+          "correction_pct": 0.0
+        }
+      }
+    },
+    "7.0": {
+      "mg_inf": 0.442,
+      "err": 0.004,
+      "A": 2.2,
+      "L_values": {
+        "8": {
+          "mg_L": 0.45001,
+          "correction_pct": 1.81
+        },
+        "12": {
+          "mg_L": 0.44291,
+          "correction_pct": 0.21
+        },
+        "16": {
+          "mg_L": 0.44212,
+          "correction_pct": 0.03
+        },
+        "24": {
+          "mg_L": 0.442,
+          "correction_pct": 0.0
+        },
+        "32": {
+          "mg_L": 0.442,
+          "correction_pct": 0.0
+        },
+        "40": {
+          "mg_L": 0.442,
+          "correction_pct": 0.0
+        },
+        "48": {
+          "mg_L": 0.442,
+          "correction_pct": 0.0
+        }
+      }
+    }
+  },
+  "quantum_corral": {
+    "xi_01": 2.404826,
+    "hbarc_gev_fm": 0.19733,
+    "results": {
+      "PDF v1  (4\u03b2)": {
+        "mg_gev": 1.06,
+        "mg_err": 0.01,
+        "R_fm": 0.44768,
+        "R_err": 0.00422
+      },
+      "Ext.   (7\u03b2)": {
+        "mg_gev": 1.61,
+        "mg_err": 0.01,
+        "R_fm": 0.29475,
+        "R_err": 0.00183
+      }
+    },
+    "formula": "m_g = hbar*c*xi_01 / R_corral"
+  },
+  "dissipation": {
+    "gamma_gev_inv": 0.012,
+    "gamma_err": 0.001,
+    "markov_ratio": 0.0016,
+    "xi_coupling": 0.095,
+    "xi_err": 0.018
+  },
+  "lattice_parameters": {
+    "5.7": {
+      "a_fm": 0.1593,
+      "a2_fm2": 0.025376,
+      "a_inv_gev": 1.2387
+    },
+    "5.9": {
+      "a_fm": 0.1377,
+      "a2_fm2": 0.018961,
+      "a_inv_gev": 1.433
+    },
+    "6.1": {
+      "a_fm": 0.119,
+      "a2_fm2": 0.014161,
+      "a_inv_gev": 1.6582
+    },
+    "6.3": {
+      "a_fm": 0.1028,
+      "a2_fm2": 0.010568,
+      "a_inv_gev": 1.9196
+    },
+    "6.5": {
+      "a_fm": 0.0889,
+      "a2_fm2": 0.007903,
+      "a_inv_gev": 2.2197
+    },
+    "6.8": {
+      "a_fm": 0.0732,
+      "a2_fm2": 0.005358,
+      "a_inv_gev": 2.6958
+    },
+    "7.0": {
+      "a_fm": 0.0641,
+      "a2_fm2": 0.004109,
+      "a_inv_gev": 3.0785
+    }
+  }
+}
